@@ -1,6 +1,6 @@
 
 {
-    "name": "laravel/mongo-exception-handler",
+    "name": "mongodb-exception-handler",
     "description": "A simple handler package for MongoDB bulk write exceptions",
     "type": "library",
     "autoload": {
