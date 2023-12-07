@@ -3,6 +3,7 @@
     "name": "manikandan/mongodb-exception-handler",
     "description": "A simple handler package for MongoDB bulk write exceptions",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "MongoExceptionHandler\\": "src/"
